@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josephine</h1>
-<h3 align="center">A passionate frontend developer from Swansea</h3>
+<h3 align="center">A passionate frontend developer from United Kingdom</h3>
 
-- 🔭 I’m currently working on **Leeds University Digital Coding**
+- 🔭 I’m currently working on **Leeds Trinity University Digital Coding**
 
 
 <h3 align="left">Languages and Tools:</h3>
